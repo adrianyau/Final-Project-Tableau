@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+The project was to demonstrate visualization techniques with Tableau and show any trends with a data source provided.  The goal is to turn data comparisions into bars, charts, maps, and plots that are easy for the general audience to understand.
 
 ## Process
 ### (your step 1)
