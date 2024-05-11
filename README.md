@@ -24,7 +24,7 @@ The project was to demonstrate visualization techniques with Tableau and show an
 - There are a couple of outliers - notably between the type of property and price.  For example, there are a couple of 2-bedroom apartments that is priced $5,000 and $10,000, which seems odd.  However, it is not uncommon that there are Airbnb listings for houses with 5+ bedrooms for the similar price to accomodate a large group of visitors.
 - This is the most interesting result that I have encounted.  In the line graph, the number of Airbnb listings sharply decline in 2014.  Having sought external resources, it is discovered that Airbnb was in a legal battle with the state of New York because it was illegal to have short-term rentals for less than 30 days:
   - The huge influx of Airbnb listings led to the review of Airbnb's business records showing over third-quarters of bookings have broken the state's laws.
-  - It was not subject to hospitality taxes like hotels.
+  - Taxes were avoided to be paid like hotels.
   - Often, owners are not present with the occupier(s).
   - Unregulated safety concerns with respect to fire evacuation protocol and sprinkler systems.
   - Airbnb listings were converted into "illegal" hotel rooms that takes real estate off the market for private gain.
