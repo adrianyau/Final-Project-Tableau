@@ -4,15 +4,18 @@
 The project was to demonstrate visualization techniques with Tableau and show any trends with a data source provided.  The goal is to turn data comparisons into bars, charts, maps, and plots that are easy to present for the general audience to understand a business objective.
 
 ## Process
-1. I have chosen Option 2. (III) AIRBNB because it would be interesting to map out various listings around the city of New York and find out something interesting with the type of properties and prices to stay at any location.
-2. A map was created to categorize the five (5) boroughs of New York - Manhattan, Brooklyn, Queens, Bronx, and Staten Island.
-3. A pie chart was created to show the percentage of listings between the boroughs of New York.
-4. A bar graph was created to show the total different types of rooms whether private, shared, or fully occupied.
-5. Another bar graph was created to show the average price of the number of beds.
-6. A line graph was charted to show the review ratings over the time of listings were hosted.
-7. A scatterplot was created to show an array of plots between the number of reviews and review ratings.
-8. A cluster was analyzed to see if there were any categories between numericals - number of beds, price of listings, number of reviews, and review ratings.
-9. A box plot was create to detect any outliers.
+1. I have chosen Option 2. (III) AIRBNB because it would be interesting to map out various listings around the city of New York and find out something interesting with the type of properties and prices to stay at any of these location.
+2. The 'airbnb.xlsx' file was uploaded to the 'Data Source' in Tableau.
+3. The data was analyzed between measures (e.g., zipcodes, neighborhood, property types, and room types) versus dimensions (e.g., number of beds, prices, number of reviews, and review ratings).
+4. A map was created to categorize the five (5) boroughs of New York by color - Manhattan, Brooklyn, Queens, Bronx, and Staten Island.
+5. A pie chart was created to show the percentage of listings between the boroughs of New York.
+6. A bar graph was created to show the total different types of rooms whether private, shared, or fully occupied.
+7. Another bar graph was created to show the average price of the number of beds.
+8. A line graph was charted to show the review ratings over the time of listings were hosted.
+9. Another line graph was charated to show the number of listings over the time of listings hosted.
+10. A scatterplot was created to show an array of plots between the number of reviews and review ratings.
+11. A cluster was analyzed to see if there were any categories between numericals - number of beds, price of listings, number of reviews, and review ratings.
+12. A box plot was create to detect any outliers.
 
 ## Results
 - Manhattan and Brooklyn are the most popular boroughs given the denser urban population and higher Airbnb listings with respect to apartments.  Occupation of the entire place is the predominant form of space given the crowdedness and urban design of the city.
