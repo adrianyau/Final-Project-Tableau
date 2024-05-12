@@ -34,6 +34,7 @@ The project was to demonstrate visualization techniques with Tableau and show an
 - Difficult to plot variables between x-axis and y-axis to make direct quality comparisons.
 - Properly apply enhancements, such as colours, tables, and filters, to convey message visually to the general audience.
 - Brainstorm the main topic and lead with a story to capture the attention of the general audience.
+- Tableau is different from SQL and Python.  Programming languages have orders and structures.  Tableau requires user interaction, such as "drag-and-drop" windows and visual layouts.
 
 ## Future Goals
 - As the dataset is up to 2015, I hope to find a dataset that can be merged with the existing one to see how trends have emerged from the company and its customers.
