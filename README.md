@@ -21,7 +21,7 @@ The project was to demonstrate visualization techniques with Tableau and show an
 - Between the 5 boroughs of New York City, Manhattan and Brooklyn have substantially more Airbnb listings Queens, Bronx, and Staten Island, which dominate with over 80% of the total share.
 - It is cheaper staying at Airbnb than hotels.  Visitors have more choices with prices, locations, spaces, and types of properties.
 - Apartments are the most abundent type of property in New York City to be listed given the urban city design and level of crowdedness.  Plus, Airbnb empowers owners and tenants, depending on the demographic and standards of living, to have financial flexibility and freedom to live at different locations.
-- There are a couple of outliers - notably between the type of property and price.  For example, there are a couple of 2-bed apartments that are priced at $5,000 and $10,000, which seems odd for the description.  Data validation may be needed to confirm the type of property and price.
+- There are a couple of outliers notably between the type of property and price.  For example, there are a couple of 2-bed apartments that are priced at $5,000 and $10,000, which seem odd for the description.  Data validation may be needed to confirm the type of property and price.
 - This is the most interesting result that I have encounted.  In the line graph, the number of Airbnb listings sharply declined in 2014.  Having sought external resources, it is discovered that Airbnb was in a legal battle with the state of New York because it was illegal to have short-term rentals for less than 30 days:
   - The huge influx of Airbnb listings led to the review of Airbnb's business records showing over third-quarters of bookings have broken the state's laws.
   - Taxes were avoided to be paid like hotels.
@@ -33,8 +33,8 @@ The project was to demonstrate visualization techniques with Tableau and show an
 ## Challenges 
 - Difficult to plot variables between x-axis and y-axis to make direct quality comparisons.
 - Properly apply enhancements, such as colours, tables, and filters, to convey message visually to the general audience.
-- Brainstorm the main topic and lead with a story to capture the attention of the general audience.
-- Tableau is different from SQL and Python.  Programming languages have orders and structures.  Tableau requires user interaction, such as "drag-and-drop" windows and visual layouts.
+- Brainstorm and follow with a story to capture the attention of the general audience.
+- Tableau is different from SQL and Python.  Programming languages have orders and structures.  Tableau requires user interaction, such as "drag-and-drop" windows and application of visual layouts.
 
 ## Future Goals
-- As the dataset is up to 2015, I hope to find a dataset that can be merged with the existing one to see how trends have emerged from the company and its customers.
+- As the dataset is up to 2015, I hope to find a dataset that can be merged with the existing Excel file to see if any trends have changed.
