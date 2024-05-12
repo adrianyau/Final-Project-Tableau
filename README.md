@@ -10,19 +10,19 @@ The project was to demonstrate visualization techniques with Tableau and show an
 4. A map was created to categorize the five (5) boroughs of New York by color - Manhattan, Brooklyn, Queens, Bronx, and Staten Island.
 5. A pie chart was created to show the percentage of listings between the boroughs of New York.
 6. A bar graph was created to show the total different types of rooms whether private, shared, or fully occupied.
-7. Another bar graph was created to show the average price of the number of beds.
+7. Another bar graph was created to show the average price between number of beds.
 8. A line graph was charted to show the review ratings over the time of listings were hosted.
-9. Another line graph was charated to show the number of listings over the time of listings hosted.
+9. Another line graph was charted to show the number of listings over the time of listings hosted.
 10. A scatterplot was created to show an array of plots between the number of reviews and review ratings.
-11. A cluster was analyzed to see if there were any categories between numericals - number of beds, price of listings, number of reviews, and review ratings.
+11. A cluster was analyzed to see if there were any notable categories between numericals - number of beds, price of listings, number of reviews, and review ratings.
 12. A box plot was create to detect any outliers.
 
 ## Results
 - Between the 5 boroughs of New York City, Manhattan and Brooklyn have substantially more Airbnb listings Queens, Bronx, and Staten Island, which dominate with over 80% of the total share.
 - It is cheaper staying at Airbnb than hotels.  Visitors have more choices with prices, locations, spaces, and types of properties.
 - Apartments are the most abundent type of property in New York City to be listed given the urban city design and level of crowdedness.  Plus, Airbnb empowers owners and tenants, depending on the demographic and standards of living, to have financial flexibility and freedom to live at different locations.
-- There are a couple of outliers notably between the type of property and price.  For example, there are a couple of 2-bed apartments that are priced at $5,000 and $10,000, which seem odd for the description.  Data validation may be needed to confirm the type of property and price.
-- This is the most interesting result that I have encounted.  In the line graph, the number of Airbnb listings sharply declined in 2014.  Having sought external resources, it is discovered that Airbnb was in a legal battle with the state of New York because it was illegal to have short-term rentals for less than 30 days:
+- There are a couple of outliers notably between the type of property and price.  For example, there is a 2-bed listed for $10,000.  Data validation may be needed to confirm the type of property and price.
+- This is the most interesting result that I have encounted.  In the line graph, the number of Airbnb listings sharply declined in 2014.  Having sought external online resources, it is discovered that Airbnb was in a legal dispute with the state of New York because it was illegal to have short-term rentals for less than 30 days:
   - The huge influx of Airbnb listings led to the review of Airbnb's business records showing over third-quarters of bookings have broken the state's laws.
   - Taxes were avoided to be paid like hotels.
   - Often, owners are not present with the occupier(s).
