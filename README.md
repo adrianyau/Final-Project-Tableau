@@ -37,5 +37,6 @@ The project was to demonstrate visualization techniques with Tableau and show an
 - Tableau is different from SQL and Python.  Programming languages have orders and structures.  Tableau requires user interaction, such as "drag-and-drop" windows and application of visual layouts.
 
 ## Future Goals
-- As the dataset is up to 2015, I hope to find a dataset that can be merged with the existing Excel file to see if any trends have changed.
+- As the dataset is up to 2015, I hope to find a dataset that can be merged with the existing Excel file to see if any trends have updated recently.
 - Work on advanced Tableau skills, such as timing with animations.
+- Look over dataset between Airbnb and hotels to point out distinct comparisons in my message.
