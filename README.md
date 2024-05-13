@@ -4,7 +4,7 @@
 The project was to demonstrate visualization techniques with Tableau and show any trends with a data source provided.  The goal is to turn data comparisons into bars, charts, maps, and plots that are easy to present for the general audience to understand a business objective.
 
 ## Process
-1. I have chosen Option 2. (III) AIRBNB because it reminded me of my vacation in New York during the summer of 2015.  I stayed at 'The Affinity', a hotel that is in the heart of Manhattan, New York, across from The Madison Square Garden and travel was accessible at Penn Station.  I did not recall hearing about Airbnb at that time, so I figuered that it would be interesting what I could discover with the Airbnb dataset and perhaps why was it so popular with users through social media and word of mouth.
+1. I have chosen Option 2. (III) AIRBNB because it reminded me of my vacation in New York during the summer of 2015.  I stayed at 'The Affinity', a hotel that is in the heart of Manhattan, New York, across from The Madison Square Garden and travel was accessible at Penn Station.  I did not recall hearing about Airbnb at that time, so I thought that it would be interesting what I could discover with the Airbnb dataset and perhaps why was it so popular with users through social media and word of mouth.
 2. The 'airbnb.xlsx' file was uploaded to the 'Data Source' in Tableau.
 3. The data was analyzed between measures (e.g., zipcodes, neighborhood, property types, and room types) versus dimensions (e.g., number of beds, prices, number of reviews, and review ratings).
 4. A map was created to categorize the five (5) boroughs of New York by color - Manhattan, Brooklyn, Queens, Bronx, and Staten Island.
